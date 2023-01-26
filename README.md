@@ -1,4 +1,4 @@
-WARZONE RAT 1.71 Native C++ Remote Administration Trojan CRACKED by UNKNOWN
+WARZONE RAT 1.71 Native C++ Remote Administration Trojan Source Code Leaked
 
 - Automatic Download and Execute
 - Persistence Feature
